@@ -12,6 +12,8 @@ Data Science (Data Analysis &amp; Machine Learning) using Apple Annual and Quart
 - [ ] Data from 2024 - 2015
   - [x] Data Gathering
   - [ ] Data Pre-processing
+    - [x] *'Products and Services Performance'* dataset
+    - [x] *'Segment Operating Performance'* dataset
   - [ ] Exploratory Data Analysis
 - [ ] Data from 2014 - 2005
   - [x] Data Gathering
@@ -38,3 +40,6 @@ Data Science (Data Analysis &amp; Machine Learning) using Apple Annual and Quart
 ### Week 1
 
 - Annual Data gathering (2024 - 2005) (30/06/2025)
+- Data Pre-processing
+  - *'Products and Services Performance'* dataset
+  - *'Segment Operating Performance'* dataset
