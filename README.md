@@ -40,6 +40,6 @@ Data Science (Data Analysis &amp; Machine Learning) using Apple Annual and Quart
 ### Week 1
 
 - Annual Data gathering (2024 - 2005) (30/06/2025)
-- Data Pre-processing
+- Data Pre-processing (30/06/2025)
   - *'Products and Services Performance'* dataset
   - *'Segment Operating Performance'* dataset
