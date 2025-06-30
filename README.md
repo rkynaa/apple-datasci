@@ -9,29 +9,29 @@ Data Science (Data Analysis &amp; Machine Learning) using Apple Annual and Quart
 
 ### Annual Report Data
 
-[] Data from 2024 - 2015
+[ ] Data from 2024 - 2015
     [x] Data Gathering
-    [] Data Pre-processing
-    [] Exploratory Data Analysis
-[] Data from 2014 - 2005
+    [ ] Data Pre-processing
+    [ ] Exploratory Data Analysis
+[ ] Data from 2014 - 2005
     [x] Data Gathering
-    [] Data Pre-processing
-    [] Exploratory Data Analysis
-[] Data from 2004 - 1994
-    [] Data Gathering
-    [] Data Pre-processing
-    [] Exploratory Data Analysis
+    [ ] Data Pre-processing
+    [ ] Exploratory Data Analysis
+[ ] Data from 2004 - 1994
+    [ ] Data Gathering
+    [ ] Data Pre-processing
+    [ ] Exploratory Data Analysis
 
 ### Quarterly Report Data
 
-[] Data from 2024 - 2015
-    [] Data Gathering
-    [] Data Pre-processing
-    [] Exploratory Data Analysis
-[] Data from 2014 - 2005
-    [] Data Gathering
-    [] Data Pre-processing
-    [] Exploratory Data Analysis
+[ ] Data from 2024 - 2015
+    [ ] Data Gathering
+    [ ] Data Pre-processing
+    [ ] Exploratory Data Analysis
+[ ] Data from 2014 - 2005
+    [ ] Data Gathering
+    [ ] Data Pre-processing
+    [ ] Exploratory Data Analysis
 
 ## Weekly Progress
 
